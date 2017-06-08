@@ -1,0 +1,2 @@
+ Learned  basic Linux commands such as how to create an directory,how to change directories,pushingand popping directories,creating and removing files etc.
+
