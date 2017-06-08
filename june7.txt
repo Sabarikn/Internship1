@@ -1,0 +1,1 @@
+Downloaded the IL100 iso file and learned to mount it and watched the videos on git ant github repositories and created local git repositories
