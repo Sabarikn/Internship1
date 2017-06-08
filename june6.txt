@@ -1,0 +1,2 @@
+Installed vim,python,git in my new system and tested out those commands which i have learned previously and found some errors but corrected by searching in internet
+
